@@ -32,7 +32,7 @@ class EdgeDriverManager:
     def __init__(self):
         self.driver_dir = os.path.join(os.getcwd(), "drivers")
         self.driver_path = os.path.join(self.driver_dir, "msedgedriver.exe")
-        self.download_url_template = "https://msedgedriver.azureedge.net/{version}/edgedriver_win64.zip"
+        self.download_url_template = "https://msedgedriver.microsoft.com/{version}/edgedriver_win64.zip"
         
         # 确保drivers目录存在
         os.makedirs(self.driver_dir, exist_ok=True)
