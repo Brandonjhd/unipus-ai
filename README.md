@@ -40,7 +40,7 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 #### 2. 安装脚本
 点击下方链接安装脚本：
 - [从 GitHub 安装](https://github.com/Brandonjhd/unipus-ai/raw/main/unipus-auto-study.user.js)
-- [从蓝奏云下载](https://uxudjs.lanzouw.com/imBFI3advfsb)
+- [从蓝奏云下载](https://uxudjs.lanzouw.com/b007u2xjqj)密码:f5bw
 
 #### 3. 使用步骤
 1. 打开U校园课程学习平台页面 (https://ucontent.unipus.cn/*)
@@ -119,7 +119,7 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 #### 2. 安裝腳本
 點選下方連結安裝腳本：
 - [從 GitHub 安裝](https://github.com/Brandonjhd/unipus-ai/raw/main/unipus-auto-study.user.js)
-- [從藍奏雲下載](https://uxudjs.lanzouw.com/imBFI3advfsb)
+- [從藍奏雲下載](https://uxudjs.lanzouw.com/b007u2xjqj)密碼:f5bw
 
 #### 3. 使用步驟
 1. 開啟U校園課程學習平台頁面 (https://ucontent.unipus.cn/*)
@@ -198,7 +198,7 @@ First, install a userscript manager (choose one):
 #### 2. Install Script
 Click the link below to install:
 - [Install from GitHub](https://github.com/Brandonjhd/unipus-ai/raw/main/unipus-auto-study.user.js)
-- [Download from Lanzou Cloud](https://uxudjs.lanzouw.com/imBFI3advfsb)
+- [Download from Lanzou Cloud](https://uxudjs.lanzouw.com/b007u2xjqj)Password:f5bw
 
 #### 3. Usage
 1. Open UCampus course learning platform page (https://ucontent.unipus.cn/*)
@@ -277,7 +277,7 @@ UキャンパスAI自動学習時間アシスタントは、Uキャンパス(New
 #### 2. スクリプトをインストール
 以下のリンクからインストール：
 - [GitHubからインストール](https://github.com/Brandonjhd/unipus-ai/raw/main/unipus-auto-study.user.js)
-- [蓝奏云からダウンロード](https://uxudjs.lanzouw.com/imBFI3advfsb)
+- [蓝奏云からダウンロード](https://uxudjs.lanzouw.com/b007u2xjqj)パスワード:f5bw
 
 #### 3. 使用方法
 1. Uキャンパスコース学習プラットフォームページを開く (https://ucontent.unipus.cn/*)
@@ -356,7 +356,7 @@ U캠퍼스 AI 자동 학습시간 도우미는 U캠퍼스(New Horizon College En
 #### 2. 스크립트 설치
 아래 링크에서 설치:
 - [GitHub에서 설치](https://github.com/Brandonjhd/unipus-ai/raw/main/unipus-auto-study.user.js)
-- [蓝奏云에서 다운로드](https://uxudjs.lanzouw.com/imBFI3advfsb)
+- [蓝奏云에서 다운로드](https://uxudjs.lanzouw.com/b007u2xjqj)비밀번호:f5bw
 
 #### 3. 사용 방법
 1. U캠퍼스 과정 학습 플랫폼 페이지 열기 (https://ucontent.unipus.cn/*)
