@@ -214,8 +214,30 @@
         title.style.fontSize = '18px';
         title.style.fontWeight = 'bold';
         title.style.color = '#fff';
-        title.style.marginBottom = '15px';
+        title.style.marginBottom = '8px';
         title.style.textAlign = 'center';
+
+        let authorInfo = document.createElement('div');
+        authorInfo.style.display = 'flex';
+        authorInfo.style.alignItems = 'center';
+        authorInfo.style.justifyContent = 'space-between';
+        authorInfo.style.marginBottom = '2px';
+        authorInfo.style.paddingBottom = '2px';
+
+        let authorText = document.createElement('p');
+        authorText.textContent = '作者: UXU倒計時';
+        authorText.style.margin = '0';
+        authorText.style.fontSize = '12px';
+        authorText.style.color = 'rgba(255,255,255,0.9)';
+
+        let githubLink = document.createElement('a');
+        githubLink.href = 'https://github.com/Brandonjhd/unipus-ai';
+        githubLink.textContent = '📦 GitHub仓库';
+        githubLink.style.fontSize = '12px';
+        githubLink.style.color = '#fff';
+
+        authorInfo.appendChild(authorText);
+        authorInfo.appendChild(githubLink);
 
         let contentBox = document.createElement('div');
         contentBox.style.background = '#fff';
@@ -321,6 +343,7 @@
         contentBox.appendChild(log);
 
         panel.appendChild(title);
+        panel.appendChild(authorInfo);
         panel.appendChild(contentBox);
 
         document.body.appendChild(panel);
