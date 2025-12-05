@@ -8,6 +8,7 @@
 // @grant        none
 // @run-at       document-end
 // @homepage     https://github.com/Brandonjhd/unipus-ai
+// @homepageURL  https://github.com/Brandonjhd/unipus-ai
 // @supportURL   https://github.com/Brandonjhd/unipus-ai/issues
 // @license      CC-BY-NC-SA-4.0
 // ==/UserScript==
