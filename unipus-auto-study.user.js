@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         U校园AI自动刷时长助手
-// @version      4.0
+// @version      4.1
 // @description  新视野大学英语自动识别目录、自动翻页、分配课时,高效刷课工具
 // @author       UXU倒計時
 // @match        https://ucontent.unipus.cn/*
