@@ -1,4 +1,4 @@
-# unipus-ai
+# UnipusAIAutoPlayer
 
 ### 🌐 选择语言 | 選擇語言 | Choose Language
 
@@ -37,7 +37,7 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 
 #### 2. 安装脚本
 点击下方链接安装脚本：
-- [从 GitHub 安装](https://github.com/Brandonjhd/unipus-ai/raw/main/unipus-auto-study.user.js)
+- [从 GitHub 安装](https://github.com/Brandonjhd/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js)
 - [从蓝奏云下载](https://uxudjs.lanzouw.com/b007u2xjqj) 密码:f5bw
 
 #### 3. 使用步骤
@@ -68,8 +68,8 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 
 📌 **使用规范**
 - 本项目仅允许开源学习及个人非商业用途
-- 使用本项目时，请务必保留署名及仓库出处：https://github.com/Brandonjhd/unipus-ai
-- 如果有问题或建议，请在 [Issues](https://github.com/Brandonjhd/unipus-ai/issues) 中提出。感谢使用！
+- 使用本项目时，请务必保留署名及仓库出处：https://github.com/Brandonjhd/UnipusAIAutoPlayer
+- 如果有问题或建议，请在 [Issues](https://github.com/Brandonjhd/UnipusAIAutoPlayer/issues) 中提出。感谢使用！
 
 ---
 
@@ -102,7 +102,7 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 
 #### 2. 安裝腳本
 點選下方連結安裝腳本：
-- [從 GitHub 安裝](https://github.com/Brandonjhd/unipus-ai/raw/main/unipus-auto-study.user.js)
+- [從 GitHub 安裝](https://github.com/Brandonjhd/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js)
 - [從藍奏雲下載](https://uxudjs.lanzouw.com/b007u2xjqj) 密碼:f5bw
 
 #### 3. 使用步驟
@@ -133,8 +133,8 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 
 📌 **使用規範**
 - 僅供開源學習及個人非商業用途
-- 使用本專案時，請務必保留標註及原始倉庫連結：https://github.com/Brandonjhd/unipus-ai
-- 有任何問題或建議請至 [Issues](https://github.com/Brandonjhd/unipus-ai/issues) 留言，感謝您的使用！
+- 使用本專案時，請務必保留標註及原始倉庫連結：https://github.com/Brandonjhd/UnipusAIAutoPlayer
+- 有任何問題或建議請至 [Issues](https://github.com/Brandonjhd/UnipusAIAutoPlayer/issues) 留言，感謝您的使用！
 
 ---
 
@@ -167,7 +167,7 @@ First, install a userscript manager (choose one):
 
 #### 2. Install Script
 Click the link below to install:
-- [Install from GitHub](https://github.com/Brandonjhd/unipus-ai/raw/main/unipus-auto-study.user.js)
+- [Install from GitHub](https://github.com/Brandonjhd/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js)
 - [Download from Lanzou Cloud](https://uxudjs.lanzouw.com/b007u2xjqj) Password:f5bw
 
 #### 3. Usage
@@ -198,11 +198,11 @@ Click the link below to install:
 
 📌 **Usage Guidelines**
 - Open-source learning and personal non-commercial use only
-- Please retain attribution and repository link when using: https://github.com/Brandonjhd/unipus-ai
-- Report issues or suggestions at [Issues](https://github.com/Brandonjhd/unipus-ai/issues). Thank you for using!
+- Please retain attribution and repository link when using: https://github.com/Brandonjhd/UnipusAIAutoPlayer
+- Report issues or suggestions at [Issues](https://github.com/Brandonjhd/UnipusAIAutoPlayer/issues). Thank you for using!
 
 ---
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Brandonjhd/unipus-ai&type=Date)](https://star-history.com/#Brandonjhd/unipus-ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Brandonjhd/UnipusAIAutoPlayer&type=Date)](https://star-history.com/#Brandonjhd/UnipusAIAutoPlayer&Date)
