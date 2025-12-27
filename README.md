@@ -1,18 +1,16 @@
 # unipus-ai
 
-### 🌐 选择语言 | 選擇語言 | Choose Language | 言語選択 | 언어 선택
+### 🌐 选择语言 | 選擇語言 | Choose Language
 
 - [🇨🇳 简体中文](#-简体中文)
 - [🇹🇼 繁體中文](#-繁體中文)
 - [🇺🇸 English](#-english)
-- [🇯🇵 日本語](#-日本語)
-- [🇰🇷 한국어](#-한국어)
 
 ---
 
 ## 🇨🇳 简体中文
 
-U校园AI自动刷时长助手 —— 智能高效课程时长管理
+U校园AI自动刷时长工具
 
 ### 简介
 
@@ -77,7 +75,7 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 
 ## 🇹🇼 繁體中文
 
-U校園AI自動刷時長助手 —— 智慧高效課程時長管理
+U校園AI自動刷時長工具
 
 ### 簡介
 
@@ -142,7 +140,7 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 
 ## 🇺🇸 English
 
-UCampus AI Auto Duration Assistant — Intelligent Course Time Management
+UCampus AI Auto Duration Assistant Tool
 
 ### Introduction
 
@@ -202,136 +200,6 @@ Click the link below to install:
 - Open-source learning and personal non-commercial use only
 - Please retain attribution and repository link when using: https://github.com/Brandonjhd/unipus-ai
 - Report issues or suggestions at [Issues](https://github.com/Brandonjhd/unipus-ai/issues). Thank you for using!
-
----
-
-## 🇯🇵 日本語
-
-UキャンパスAI自動学習時間アシスタント — インテリジェント学習時間管理
-
-### 概要
-
-UキャンパスAI自動学習時間アシスタントは、Uキャンパス(New Horizon College English)プラットフォーム用に開発されたユーザースクリプトツールです。ディレクトリの自動認識、インテリジェントな時間配分、全プロセスの自動化により、学生が効率的にコース時間要件を満たし、実際の学習に時間を節約できるよう支援します。
-
-### 主な機能
-
-- ✅ **自動ディレクトリ巡回** - Unit、Section、Microの各レベルのディレクトリを自動認識して切り替え
-- ✅ **自動Tab/Taskクリック** - 多階層のTabとTaskの全自動クリックをサポート
-- ✅ **スマート時間配分** - 総コース時間を各学習項目に自動配分、各ステップごとに正確
-- ⏱️ **カウントダウン表示** - 各ページで現在のステップのカウントダウンを表示、進捗が一目瞭然
-- ⏸️ **いつでも一時停止・再開** - いつでも一時停止/再開、途中で設定を変更して即座に反映
-- 🔄 **自動ポップアップ処理** - 「わかりました」「確認」などのポップアップを自動認識して閉じる
-- 📝 **操作ログ表示** - プロセス全体のリアルタイムログ、エラー時の確認が可能
-- 📱 **フローティングボール起動** - 美しいフローティングボール入口、クリーンでモダンなUI
-
-### インストール
-
-#### 1. ブラウザ拡張機能をインストール
-まず、ユーザースクリプトマネージャーをインストールします（いずれか選択）：
-- [Tampermonkey](https://www.tampermonkey.net/) (推奨)
-- [Violentmonkey](https://violentmonkey.github.io/)
-- [Greasemonkey](https://www.greasespot.net/)
-
-#### 2. スクリプトをインストール
-以下のリンクからインストール：
-- [GitHubからインストール](https://github.com/Brandonjhd/unipus-ai/raw/main/unipus-auto-study.user.js)
-- [蓝奏云からダウンロード](https://uxudjs.lanzouw.com/b007u2xjqj) パスワード:f5bw
-
-#### 3. 使用方法
-1. Uキャンパスコース学習プラットフォームページを開く (https://ucontent.unipus.cn/*)
-2. 右下の紫色のフローティングボール 🎓 をクリック
-3. コントロールパネルで開始ディレクトリを選択し、総学習時間(分)を設定
-4. 「🚀 学習開始」ボタンをクリック
-5. スクリプトが自動的にすべての操作を完了、いつでも「⏸️ 一時停止」をクリックして設定を調整可能
-6. ログエリアにすべてのステップと進捗がリアルタイム表示されます
-
-### 対応範囲
-
-- ✅ Uキャンパスプラットフォーム (ucontent.unipus.cn)
-- ✅ New Horizon College Englishシリーズ
-- ✅ 3階層ディレクトリ構造を含むすべてのコース
-
-### 作者
-
-**UXUカウントダウン**
-
-### 注意事項
-
-⚠️ **重要なお知らせ**
-- 本プロジェクトは学習交流用途のみです。自動化ツールは適切に使用してください
-- 実際の学習ニーズと組み合わせて使用し、自動時間記録に完全に依存しないでください
-- 本ツールは100%の成功率を保証しません。問題が発生した場合は手動で完了してください
-- 本プロジェクトの使用は、関連する使用規範を理解し同意したことを意味します
-
-📌 **使用規範**
-- オープンソース学習および非商用利用のみ許可
-- 使用時は著作権表示およびリポジトリリンクを必ず保持：https://github.com/Brandonjhd/unipus-ai
-- 質問や提案は [Issues](https://github.com/Brandonjhd/unipus-ai/issues) でお知らせください。ご利用ありがとうございます！
-
----
-
-## 🇰🇷 한국어
-
-U캠퍼스 AI 자동 학습시간 도우미 — 지능형 학습시간 관리
-
-### 소개
-
-U캠퍼스 AI 자동 학습시간 도우미는 U캠퍼스(New Horizon College English) 플랫폼용으로 개발된 사용자 스크립트 도구입니다. 디렉토리 자동 인식, 지능형 시간 할당, 전체 프로세스 자동화를 통해 학생들이 효율적으로 과정 시간 요구사항을 충족하고 실제 학습에 시간을 절약할 수 있도록 지원합니다.
-
-### 주요 기능
-
-- ✅ **자동 디렉토리 순회** - Unit, Section, Micro 각 레벨 디렉토리를 자동으로 인식하고 전환
-- ✅ **자동 Tab/Task 클릭** - 다단계 Tab 및 Task 전자동 클릭 지원
-- ✅ **스마트 시간 할당** - 총 과정 시간을 각 학습 항목에 자동 배분, 각 단계마다 정확
-- ⏱️ **카운트다운 표시** - 각 페이지에 현재 단계의 카운트다운 표시, 진행 상황 한눈에 파악
-- ⏸️ **언제든지 일시정지/재개** - 언제든지 일시정지/재개, 중간에 설정 수정하면 즉시 적용
-- 🔄 **자동 팝업 처리** - "알았습니다", "확인" 등의 팝업을 자동으로 인식하고 닫기
-- 📝 **작업 로그 표시** - 전체 프로세스 실시간 로그, 오류 발생 시 확인 가능
-- 📱 **플로팅 버튼 실행** - 아름다운 플로팅 버튼 입구, 깔끔하고 현대적인 UI
-
-### 설치
-
-#### 1. 브라우저 확장 프로그램 설치
-먼저 사용자 스크립트 관리자를 설치합니다(하나 선택):
-- [Tampermonkey](https://www.tampermonkey.net/) (권장)
-- [Violentmonkey](https://violentmonkey.github.io/)
-- [Greasemonkey](https://www.greasespot.net/)
-
-#### 2. 스크립트 설치
-아래 링크에서 설치:
-- [GitHub에서 설치](https://github.com/Brandonjhd/unipus-ai/raw/main/unipus-auto-study.user.js)
-- [蓝奏云에서 다운로드](https://uxudjs.lanzouw.com/b007u2xjqj) 비밀번호:f5bw
-
-#### 3. 사용 방법
-1. U캠퍼스 과정 학습 플랫폼 페이지 열기 (https://ucontent.unipus.cn/*)
-2. 오른쪽 하단의 보라색 플로팅 버튼 🎓 클릭
-3. 제어 패널에서 시작 디렉토리 선택 및 총 학습 시간(분) 설정
-4. "🚀 학습 시작" 버튼 클릭
-5. 스크립트가 자동으로 모든 작업 완료, 언제든지 "⏸️ 일시정지"를 클릭하여 설정 조정 가능
-6. 로그 영역에 모든 단계와 진행 상황이 실시간으로 표시됩니다
-
-### 적용 범위
-
-- ✅ U캠퍼스 플랫폼 (ucontent.unipus.cn)
-- ✅ New Horizon College English 시리즈
-- ✅ 3단계 디렉토리 구조를 포함하는 모든 과정
-
-### 저자
-
-**UXU 카운트다운**
-
-### 안내사항
-
-⚠️ **중요 알림**
-- 이 프로젝트는 학습 교류 용도로만 사용하며, 자동화 도구를 합리적으로 사용하세요
-- 실제 학습 필요와 결합하여 사용하고, 자동 시간 기록에 완전히 의존하지 마세요
-- 이 도구는 100% 성공률을 보장하지 않으며, 문제 발생 시 수동으로 완료하세요
-- 이 프로젝트 사용은 관련 사용 규범을 이해하고 동의했음을 의미합니다
-
-📌 **사용 규범**
-- 오픈 소스 학습 및 비상업적 용도로만 사용
-- 이 프로젝트 사용 시 저작자 표시와 저장소 링크 반드시 유지：https://github.com/Brandonjhd/unipus-ai
-- 문의사항이나 제안은 [Issues](https://github.com/Brandonjhd/unipus-ai/issues)에 남겨주세요. 사용해 주셔서 감사합니다！
 
 ---
 
