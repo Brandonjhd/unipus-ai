@@ -54,23 +54,6 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 - ✅ 新视野大学英语系列课程
 - ✅ 所有包含三级目录结构的课程
 
-### 作者
-
-**UXU倒計時**
-
-### 注意事项
-
-⚠️ **重要提醒**
-- 本项目仅供学习交流使用，请合理使用自动化工具
-- 请结合实际学习需要使用本脚本，不要完全依赖自动刷时长
-- 本工具不保证100%成功率，如遇问题请手动完成
-- 使用本项目即表示您已了解并同意相关使用规范
-
-📌 **使用规范**
-- 本项目仅允许开源学习及个人非商业用途
-- 使用本项目时，请务必保留署名及仓库出处：https://github.com/Brandonjhd/UnipusAIAutoPlayer
-- 如果有问题或建议，请在 [Issues](https://github.com/Brandonjhd/UnipusAIAutoPlayer/issues) 中提出。感谢使用！
-
 ---
 
 ## 🇹🇼 繁體中文
@@ -119,23 +102,6 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 - ✅ 新視野大學英語系列課程
 - ✅ 所有包含三級目錄結構的課程
 
-### 作者
-
-**UXU倒計時**
-
-### 注意事項
-
-⚠️ **重要提醒**
-- 本專案僅供學習交流使用，請合理使用自動化工具
-- 請結合實際學習需要使用本腳本，不要完全依賴自動刷時長
-- 本工具不保證100%成功率，如遇問題請手動完成
-- 使用本專案即表示您已了解並同意相關使用規範
-
-📌 **使用規範**
-- 僅供開源學習及個人非商業用途
-- 使用本專案時，請務必保留標註及原始倉庫連結：https://github.com/Brandonjhd/UnipusAIAutoPlayer
-- 有任何問題或建議請至 [Issues](https://github.com/Brandonjhd/UnipusAIAutoPlayer/issues) 留言，感謝您的使用！
-
 ---
 
 ## 🇺🇸 English
@@ -183,23 +149,6 @@ Click the link below to install:
 - ✅ UCampus Platform (ucontent.unipus.cn)
 - ✅ New Horizon College English Series
 - ✅ All courses with three-level directory structure
-
-### Author
-
-**UXU Countdown**
-
-### Notices
-
-⚠️ **Important Notice**
-- For educational and non-commercial use only
-- Please use automation tools responsibly
-- Use this script in combination with actual learning needs, do not rely entirely on auto duration
-- Success rate not guaranteed; manual completion may be required
-
-📌 **Usage Guidelines**
-- Open-source learning and personal non-commercial use only
-- Please retain attribution and repository link when using: https://github.com/Brandonjhd/UnipusAIAutoPlayer
-- Report issues or suggestions at [Issues](https://github.com/Brandonjhd/UnipusAIAutoPlayer/issues). Thank you for using!
 
 ---
 
