@@ -50,13 +50,6 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 5. 脚本会自动完成所有操作，可随时点击「⏸️ 暂停」调整配置
 6. 日志区域会实时显示所有步骤和进度
 
-### 技术特点
-
-- 🚀 **轻量化设计** - 纯JavaScript实现，无需额外依赖
-- 🔒 **安全可靠** - 仅在U校园页面运行，不收集任何个人信息
-- 🎨 **友好界面** - 简洁美观的操作面板，易于上手
-- ⚡ **智能等待** - 自动适配网络延迟，确保操作成功率
-
 ### 适用范围
 
 - ✅ U校园平台 (ucontent.unipus.cn)
@@ -66,12 +59,6 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 ### 作者
 
 **UXU倒計時**
-
-### 许可证
-
-本项目采用 **CC BY-NC-SA 4.0** 协议开源，使用、引用及分享时需署名，不得用于商业用途，衍生作品须采用相同协议共享。
-
-查看完整协议：[LICENSE](LICENSE)
 
 ### 注意事项
 
@@ -83,7 +70,6 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 
 📌 **使用规范**
 - 本项目仅允许开源学习及个人非商业用途
-- 未获作者授权禁止商业用途
 - 使用本项目时，请务必保留署名及仓库出处：https://github.com/Brandonjhd/unipus-ai
 - 如果有问题或建议，请在 [Issues](https://github.com/Brandonjhd/unipus-ai/issues) 中提出。感谢使用！
 
@@ -129,13 +115,6 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 5. 腳本會自動完成所有操作，可隨時點選「⏸️ 暫停」調整設定
 6. 日誌區域會即時顯示所有步驟和進度
 
-### 技術特點
-
-- 🚀 **輕量化設計** - 純JavaScript實作，無需額外依賴
-- 🔒 **安全可靠** - 僅在U校園頁面執行，不收集任何個人資訊
-- 🎨 **友善介面** - 簡潔美觀的操作面板，易於上手
-- ⚡ **智慧等待** - 自動適配網路延遲，確保操作成功率
-
 ### 適用範圍
 
 - ✅ U校園平台 (ucontent.unipus.cn)
@@ -145,12 +124,6 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 ### 作者
 
 **UXU倒計時**
-
-### 授權說明
-
-本專案採用 **CC BY-NC-SA 4.0** 授權開源，使用、引用及分享時需標註作者，不得用於商業用途，衍生作品須採用相同授權條款。
-
-查看完整授權條款：[LICENSE](LICENSE)
 
 ### 注意事項
 
@@ -162,7 +135,6 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 
 📌 **使用規範**
 - 僅供開源學習及個人非商業用途
-- 未經作者授權，不得用於任何商業用途
 - 使用本專案時，請務必保留標註及原始倉庫連結：https://github.com/Brandonjhd/unipus-ai
 - 有任何問題或建議請至 [Issues](https://github.com/Brandonjhd/unipus-ai/issues) 留言，感謝您的使用！
 
@@ -208,13 +180,6 @@ Click the link below to install:
 5. Script will complete all operations automatically, click "⏸️ Pause" to adjust configuration anytime
 6. Log area will display all steps and progress in real-time
 
-### Technical Features
-
-- 🚀 **Lightweight Design** - Pure JavaScript implementation, no additional dependencies
-- 🔒 **Secure & Reliable** - Runs only on UCampus pages, collects no personal information
-- 🎨 **User-Friendly Interface** - Clean and intuitive control panel
-- ⚡ **Smart Waiting** - Automatically adapts to network delays for high success rate
-
 ### Compatibility
 
 - ✅ UCampus Platform (ucontent.unipus.cn)
@@ -224,12 +189,6 @@ Click the link below to install:
 ### Author
 
 **UXU Countdown**
-
-### License
-
-This project is licensed under **CC BY-NC-SA 4.0**. Attribution required; commercial use is prohibited; derivative works must be shared under the same license.
-
-View full license: [LICENSE](LICENSE)
 
 ### Notices
 
@@ -241,7 +200,6 @@ View full license: [LICENSE](LICENSE)
 
 📌 **Usage Guidelines**
 - Open-source learning and personal non-commercial use only
-- Commercial use prohibited without author permission
 - Please retain attribution and repository link when using: https://github.com/Brandonjhd/unipus-ai
 - Report issues or suggestions at [Issues](https://github.com/Brandonjhd/unipus-ai/issues). Thank you for using!
 
@@ -287,13 +245,6 @@ UキャンパスAI自動学習時間アシスタントは、Uキャンパス(New
 5. スクリプトが自動的にすべての操作を完了、いつでも「⏸️ 一時停止」をクリックして設定を調整可能
 6. ログエリアにすべてのステップと進捗がリアルタイム表示されます
 
-### 技術的特徴
-
-- 🚀 **軽量設計** - 純粋なJavaScript実装、追加の依存関係不要
-- 🔒 **安全で信頼性が高い** - Uキャンパスページでのみ実行、個人情報を収集しない
-- 🎨 **使いやすいインターフェース** - シンプルで美しい操作パネル
-- ⚡ **スマート待機** - ネットワーク遅延に自動対応、高い成功率を確保
-
 ### 対応範囲
 
 - ✅ Uキャンパスプラットフォーム (ucontent.unipus.cn)
@@ -303,12 +254,6 @@ UキャンパスAI自動学習時間アシスタントは、Uキャンパス(New
 ### 作者
 
 **UXUカウントダウン**
-
-### ライセンス
-
-本プロジェクトは **CC BY-NC-SA 4.0** ライセンスのもとで公開されています。著作権表示が必要。商用利用不可。同一ライセンスで共有してください。
-
-完全なライセンス：[LICENSE](LICENSE)
 
 ### 注意事項
 
@@ -320,7 +265,6 @@ UキャンパスAI自動学習時間アシスタントは、Uキャンパス(New
 
 📌 **使用規範**
 - オープンソース学習および非商用利用のみ許可
-- 作者の明確な許可なしに商用利用は禁止
 - 使用時は著作権表示およびリポジトリリンクを必ず保持：https://github.com/Brandonjhd/unipus-ai
 - 質問や提案は [Issues](https://github.com/Brandonjhd/unipus-ai/issues) でお知らせください。ご利用ありがとうございます！
 
@@ -366,13 +310,6 @@ U캠퍼스 AI 자동 학습시간 도우미는 U캠퍼스(New Horizon College En
 5. 스크립트가 자동으로 모든 작업 완료, 언제든지 "⏸️ 일시정지"를 클릭하여 설정 조정 가능
 6. 로그 영역에 모든 단계와 진행 상황이 실시간으로 표시됩니다
 
-### 기술적 특징
-
-- 🚀 **경량 설계** - 순수 JavaScript 구현, 추가 종속성 불필요
-- 🔒 **안전하고 신뢰할 수 있음** - U캠퍼스 페이지에서만 실행, 개인 정보 수집 안 함
-- 🎨 **사용자 친화적 인터페이스** - 간결하고 아름다운 조작 패널
-- ⚡ **스마트 대기** - 네트워크 지연에 자동 적응, 높은 성공률 보장
-
 ### 적용 범위
 
 - ✅ U캠퍼스 플랫폼 (ucontent.unipus.cn)
@@ -382,12 +319,6 @@ U캠퍼스 AI 자동 학습시간 도우미는 U캠퍼스(New Horizon College En
 ### 저자
 
 **UXU 카운트다운**
-
-### 라이선스
-
-이 프로젝트는 **CC BY-NC-SA 4.0** 라이선스로 오픈 소스화되어 있습니다. 저작자 표시 필요, 상업적 사용 금지, 동일한 라이선스로 공유.
-
-전체 라이선스 보기: [LICENSE](LICENSE)
 
 ### 안내사항
 
@@ -399,7 +330,6 @@ U캠퍼스 AI 자동 학습시간 도우미는 U캠퍼스(New Horizon College En
 
 📌 **사용 규범**
 - 오픈 소스 학습 및 비상업적 용도로만 사용
-- 저자의 명확한 허가 없이 상업적 용도 사용 금지
 - 이 프로젝트 사용 시 저작자 표시와 저장소 링크 반드시 유지：https://github.com/Brandonjhd/unipus-ai
 - 문의사항이나 제안은 [Issues](https://github.com/Brandonjhd/unipus-ai/issues)에 남겨주세요. 사용해 주셔서 감사합니다！
 
