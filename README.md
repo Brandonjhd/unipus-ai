@@ -37,7 +37,7 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 
 #### 2. 安装脚本
 点击下方链接安装脚本：
-- [从 GitHub 安装](https://github.com/Brandonjhd/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js)
+- [从 GitHub 安装](https://github.com/uxudjs/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js)
 - [从蓝奏云下载](https://uxudjs.lanzouw.com/b007u2xjqj) 密码:f5bw
 
 #### 3. 使用步骤
@@ -85,7 +85,7 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 
 #### 2. 安裝腳本
 點選下方連結安裝腳本：
-- [從 GitHub 安裝](https://github.com/Brandonjhd/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js)
+- [從 GitHub 安裝](https://github.com/uxudjs/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js)
 - [從藍奏雲下載](https://uxudjs.lanzouw.com/b007u2xjqj) 密碼:f5bw
 
 #### 3. 使用步驟
@@ -133,7 +133,7 @@ First, install a userscript manager (choose one):
 
 #### 2. Install Script
 Click the link below to install:
-- [Install from GitHub](https://github.com/Brandonjhd/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js)
+- [Install from GitHub](https://github.com/uxudjs/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js)
 - [Download from Lanzou Cloud](https://uxudjs.lanzouw.com/b007u2xjqj) Password:f5bw
 
 #### 3. Usage
@@ -154,4 +154,4 @@ Click the link below to install:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Brandonjhd/UnipusAIAutoPlayer&type=Date)](https://star-history.com/#Brandonjhd/UnipusAIAutoPlayer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=uxudjs/UnipusAIAutoPlayer&type=Date)](https://star-history.com/#uxudjs/UnipusAIAutoPlayer&Date)
