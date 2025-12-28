@@ -12,10 +12,6 @@
 
 U校园AI自动刷时长工具
 
-### 简介
-
-U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发的用户脚本工具。通过自动识别目录、智能时长分配和全流程自动化，帮助学生高效完成课时考核,节省时间专注于真正的学习内容。
-
 ### 主要功能
 
 - ✅ **自动遍历目录** - 智能识别Unit、Section、Micro各级目录并自动切换
@@ -42,7 +38,7 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 
 #### 3. 使用步骤
 1. 打开U校园课程学习平台页面 (https://ucontent.unipus.cn/*)
-2. 点击页面右下角的紫色悬浮球 🎓
+2. 点击页面右下角的绿色悬浮球 🎓
 3. 在控制面板中选择起始目录及设置总刷课时长(分钟)
 4. 点击「🚀 开始刷课」按钮
 5. 脚本会自动完成所有操作，可随时点击「⏸️ 暂停」调整配置
@@ -59,10 +55,6 @@ U校园AI自动刷时长助手是为U校园(新视野大学英语)平台开发�
 ## 🇹🇼 繁體中文
 
 U校園AI自動刷時長工具
-
-### 簡介
-
-U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發的使用者腳本工具。透過自動識別目錄、智慧時長分配和全流程自動化，幫助學生高效完成課時考核，節省時間專注於真正的學習內容。
 
 ### 主要功能
 
@@ -90,7 +82,7 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 
 #### 3. 使用步驟
 1. 開啟U校園課程學習平台頁面 (https://ucontent.unipus.cn/*)
-2. 點選頁面右下角的紫色懸浮球 🎓
+2. 點選頁面右下角的綠色懸浮球 🎓
 3. 在控制面板中選擇起始目錄及設定總刷課時長(分鐘)
 4. 點選「🚀 開始刷課」按鈕
 5. 腳本會自動完成所有操作，可隨時點選「⏸️ 暫停」調整設定
@@ -107,10 +99,6 @@ U校園AI自動刷時長助手是為U校園(新視野大學英語)平台開發�
 ## 🇺🇸 English
 
 UCampus AI Auto Duration Assistant Tool
-
-### Introduction
-
-UCampus AI Auto Duration Assistant is a userscript tool designed for the UCampus (New Horizon College English) platform. Through automatic directory recognition, intelligent duration allocation, and full-process automation, it helps students efficiently complete course time requirements and save time for actual learning.
 
 ### Features
 
@@ -138,7 +126,7 @@ Click the link below to install:
 
 #### 3. Usage
 1. Open UCampus course learning platform page (https://ucontent.unipus.cn/*)
-2. Click the purple floating ball 🎓 in the bottom right corner
+2. Click the green floating ball 🎓 in the bottom right corner
 3. Select start directory and set total duration (minutes) in the control panel
 4. Click "🚀 Start Learning" button
 5. Script will complete all operations automatically, click "⏸️ Pause" to adjust configuration anytime
