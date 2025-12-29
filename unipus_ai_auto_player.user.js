@@ -11,8 +11,8 @@
 // @homepageURL  https://github.com/uxudjs/UnipusAIAutoPlayer
 // @supportURL   https://github.com/uxudjs/UnipusAIAutoPlayer/issues
 // @license      https://github.com/uxudjs/UnipusAIAutoPlayer/blob/main/LICENSE
-// @updateURL    https://github.com/uxudjs/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js
-// @downloadURL  https://github.com/uxudjs/UnipusAIAutoPlayer/raw/main/unipus-auto-study.user.js
+// @updateURL    https://github.com/uxudjs/UnipusAIAutoPlayer/raw/main/unipus_ai_auto_player.user.js
+// @downloadURL  https://github.com/uxudjs/UnipusAIAutoPlayer/raw/main/unipus_ai_auto_player.user.js
 // ==/UserScript==
 
 (function() {
